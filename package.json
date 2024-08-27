@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-back",
+  "main": "ljuhgt.js",
+  "private": false,
+  "scripts": {
+    "start": "node ljuhgt.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
